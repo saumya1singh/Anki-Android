@@ -6,7 +6,7 @@ buildscript {
     // The version for the Kotlin plugin and dependencies
     ext.kotlin_version = '1.6.10'
     ext.lint_version = '30.0.4'
-    ext.acra_version = '5.7.0'
+    ext.acra_version = '5.8.4'
 
     repositories {
         google()
